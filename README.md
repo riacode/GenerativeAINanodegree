@@ -1,5 +1,11 @@
-# GenerativeAINanodegree
+# Generative AI Nanodegree
 Udacity Generative AI Nanodegree
+
+Projects
+1) Apply Lightweight Fine-Tuning to a Foundation Model
+2) Build Your Own Custom Chatbot
+3) AI Photo Editing with Inpainting
+4) Personalized Real Estate Agent
 
 PROJECT LICENSE
 
